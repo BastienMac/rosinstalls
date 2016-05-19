@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/bastien/testTangoC/OnlyFrame/cpp_example_util/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/bastien/testTangoC/OnlyFrame/cpp_example_util/src/androidTest/assets"/><source path="/home/bastien/testTangoC/OnlyFrame/cpp_example_util/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
